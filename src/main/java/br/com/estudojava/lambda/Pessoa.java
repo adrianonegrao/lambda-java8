@@ -1,4 +1,4 @@
-package br.com.estudojava;
+package br.com.estudojava.lambda;
 
 public class Pessoa {
     private String nome;

@@ -1,6 +1,5 @@
-package br.com.estudojava;
+package br.com.estudojava.lambda;
 
-import br.com.estudojava.Pessoa;
 import org.junit.Test;
 
 import java.util.Arrays;

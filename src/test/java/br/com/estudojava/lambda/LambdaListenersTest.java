@@ -1,4 +1,4 @@
-package br.com.estudojava;
+package br.com.estudojava.lambda;
 
 import org.junit.Test;
 
